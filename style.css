@@ -1,4 +1,13 @@
-
+          .container{
+            background-color:antiquewhite;
+        }
+        #box{
+        border-bottom: 1px solid lightslategrey;
+        padding-left: 20px;
+        margin-bottom: 20px;
+        padding-bottom: 3px;
+        
+        }
         #box{
         border-bottom: 1px solid lightslategrey;
         padding-left: 20px;
