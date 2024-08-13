@@ -1,0 +1,44 @@
+
+        #box{
+        border-bottom: 1px solid lightslategrey;
+        padding-left: 20px;
+        margin-bottom: 20px;
+        padding-bottom: 3px;
+        }
+        .box1 {
+            display: flex;
+            padding-bottom: 4px;
+            /* justify-content: space-between; */
+            
+        }
+        .nameandetails {
+            display: flex;
+            flex-direction: column;
+            /* border: 1px solid black; */
+            width: 80%;
+
+
+        }
+        .myimg {
+            display: flex;
+            /* border: 0px solid black; */
+            display: flex;
+            height: 175px;
+        }
+
+        .box2 {
+            display: flex;
+            /* padding-left: 10px;
+            margin-bottom: 20px; */
+            justify-content: left;
+            flex-direction: column;
+        }
+        .profqual {
+            display: flex;
+            flex-direction: column;
+        }
+        
+      
+    .techskill{
+        padding-bottom: 6px;
+    }
