@@ -1,4 +1,5 @@
-/* .container{
+    
+        /* .container{
             background-color:antiquewhite;
         } */
         #box{
@@ -8,15 +9,9 @@
         padding-bottom: 3px;
         
         }
-        #box{
-        border-bottom: 1px solid lightslategrey;
-        padding-left: 20px;
-        margin-bottom: 20px;
-        padding-bottom: 3px;
-        }
         .box1 {
             display: flex;
-            padding-bottom: 4px;
+            /* padding-bottom: 8px; */
             /* justify-content: space-between; */
             
         }
@@ -25,15 +20,16 @@
             flex-direction: column;
             /* border: 1px solid black; */
             width: 80%;
-
-
+            padding-bottom: 10px;
         }
-         .myimg {
+
+        .myimg {
             display: flex;
             /* border: 0px solid black; */
             display: flex;
             height: 120px;
-            padding-bottom: 5px;
+            padding-top: 5px;
+           
         }
 
         .box2 {
